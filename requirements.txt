@@ -1,0 +1,6 @@
+pandas
+plotly
+dash
+dash_auth
+dash_bootstrap_components
+dash_cytoscape
